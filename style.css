@@ -1,0 +1,12 @@
+table{
+    border:2px solid black;
+    border collapse: collapse;
+}
+img{
+
+image-orientation:from-image;
+}
+
+footer{
+    text-align: center;
+}
